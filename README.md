@@ -31,7 +31,7 @@ Business Analysis | Operations Analysis | Commercial Analytics | Financial Techn
 ## 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/asma-bello-051067296/)
-## Hi there 👋
+
 
 <!--
 **aasmabell-ctrl/aasmabell-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
